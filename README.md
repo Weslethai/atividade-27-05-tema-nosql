@@ -16,15 +16,18 @@
 - Ao término do exemplo, crie um segundo banco de dados, mas utilizando o tema Jogos;
 - Nesse banco deve haver, coleções de personagens, jogos e fabricante;
 - Relacione documentos de diferentes coleções.
-- ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/2c4741f9-d209-410a-a7a1-8214dc47bf4d)
+  
+  ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/e26f9699-2008-4004-8052-625fce313d18)
+  
   ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/e0e33f63-c924-4e60-a47c-dd7fda502576)
+  
   ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/35d1e745-6817-4117-87d5-3302d81db234)
 
 
 # Pré-requisitos 
 
-Para o exercício proposto (ETAPA 2) foi usado o MYSQL Workbench
+Para o exercício proposto (ETAPA 2) foi usado o MYSQL Workbench e o FireBase
 
 # Nome-RA 
 
-Wesley Matheus da Silva - RA- 236896
+Wesley Matheus da Silva -- 236896
