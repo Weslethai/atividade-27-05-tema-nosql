@@ -17,8 +17,8 @@
 - Nesse banco deve haver, coleções de personagens, jogos e fabricante;
 - Relacione documentos de diferentes coleções.
   
-  ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/e26f9699-2008-4004-8052-625fce313d18)
-  
+  ![Sem título](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/97a0fbdd-5a8d-4b57-a68c-c56fac62aaa7)
+
   ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/e0e33f63-c924-4e60-a47c-dd7fda502576)
   
   ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/35d1e745-6817-4117-87d5-3302d81db234)
