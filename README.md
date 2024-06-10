@@ -3,9 +3,11 @@
 # Descrição da atividade
 
 **Etapa 1**
+
 ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/01c25e64-5a2b-4fb4-b524-e49bb07d2f50)
 
 **Etapa 2**
+
 ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/dde7762b-9f6d-47ba-b0d2-60b7271623ba)
 
 **Etapa 3️**
