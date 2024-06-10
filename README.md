@@ -18,12 +18,10 @@
 - Relacione documentos de diferentes coleções.
   
   ![Sem título](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/97a0fbdd-5a8d-4b57-a68c-c56fac62aaa7)
+  ![Garfield](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/cd9211c1-d1f3-4b70-adf5-d6617b5f918f)
+  ![Cs](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/c7194e13-7d61-4804-974a-8d6691066282)
 
-  ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/e0e33f63-c924-4e60-a47c-dd7fda502576)
-  
-  ![image](https://github.com/Weslethai/atividade-27-05-tema-nosql/assets/165031332/35d1e745-6817-4117-87d5-3302d81db234)
-
-
+ 
 # Pré-requisitos 
 
 Para o exercício proposto (ETAPA 2) foi usado o MYSQL Workbench e o FireBase
